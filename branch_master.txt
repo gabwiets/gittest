@@ -1,0 +1,3 @@
+branch master
+druga linijka zmieniona
+trzecia linijka zmieniona
